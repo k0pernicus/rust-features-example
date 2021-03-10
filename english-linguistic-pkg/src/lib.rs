@@ -1,0 +1,10 @@
+pub const HELLO: &'static str = "hello";
+pub const GOOD_BYE: &'static str = "good bye";
+pub const INVALID_INPUT: &'static str = "invalid input";
+pub const PREDICTION_WIN: &'static str = "correct";
+pub const PREDICTION_LESS: &'static str = "less";
+pub const PREDICTION_GREATER: &'static str = "greater";
+pub const PLAY_ROUND: &'static str = "play a round";
+pub const GUESS_A_NUMBER: &'static str = "please guess a number";
+pub const YES_POS: &'static [&'static str] = &["yes", "YES", "y"];
+pub const NO_POS: &'static [&'static str] = &["no", "NO", "n"];
