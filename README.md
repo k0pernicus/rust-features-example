@@ -9,8 +9,7 @@ This example implements two different "linguistic backends": english, and french
 
 You can use one of them using the `features` cargo argument:
 
-`cargo run --features english` for English,
-
-`cargo run --features french` for French.
+* for English regional package: `cargo run --features english`,
+* for French regional package: `cargo run --features french`.
 
 The main binary to illustrate the example is a "guess the number" game.
