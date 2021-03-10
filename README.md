@@ -12,3 +12,5 @@ You can use one of them using the `features` cargo argument:
 `cargo run --features english` for English,
 
 `cargo run --features french` for French.
+
+The main binary to illustrate the example is a "guess the number" game.
